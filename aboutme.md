@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-subtitle: this is how we are
+subtitle: this is who we are
 ---
 
 ### Mayerling (Maya) Marquez
@@ -23,5 +23,5 @@ Leo has a “Big Picture” mindset. Leveraging his experience as an entrepreneu
 Connect with Leo and see his full profile [on LinkedIn](https://www.linkedin.com/in/leonardozambrano/).
 
 > We have more than 20 years of combined experience in our areas of expertise; which in combination with an extensive professional network of trusted collaborators, that we have grown over the years, conform the platform that supports us in building our team dynamically based on our customers and project needs.
-
+>
 > We are keen to working with you and creating value for your projects.
