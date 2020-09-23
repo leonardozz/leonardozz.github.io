@@ -13,7 +13,7 @@ She specialises in supporting multi-disciplinary teams and creating transformati
 
 Connect with Maya and see her full profile [on LinkedIn](https://www.linkedin.com/in/mayerlingmarquez/).
 
-### Leonardo Zambrano ;)
+### Leonardo Zambrano
 
 Leo is passionate about implementing smart solutions to improve business and people’s productivity and wellbeing, using cutting edge technology.
 
