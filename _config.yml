@@ -14,6 +14,7 @@ author: Mayerling Marquez
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  How we can help?: "howwecanhelp"
   About Us: "aboutus"
 ##  Resources:
 ##    - Beautiful Jekyll: "https://beautifuljekyll.com"
