@@ -1,4 +1,8 @@
-## Our Core Values
+---
+layout: page
+title: Our Core Values
+subtitle: this are our core values
+---
 
 **Responsibility:** we are committed to create sustainable solutions oriented to generate value to our customers and a positive impact on society and the environment.
 
