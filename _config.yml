@@ -14,8 +14,9 @@ author: Mayerling Marquez
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Why to work with Us?: "whytoworkwithus"
   Our core values: "ourcorevalues"
-  How we can help?: "howwecanhelp"
+  How We can help?: "howwecanhelp"
   About Us: "aboutus"
 ##  Resources:
 ##    - Beautiful Jekyll: "https://beautifuljekyll.com"
