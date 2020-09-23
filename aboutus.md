@@ -2,7 +2,7 @@
 layout: page
 title: About us
 subtitle: this is who we are
-share-title: M & L - this is who we are
+share-title: M & L - About us
 ---
 
 ### Mayerling (Maya) Marquez
