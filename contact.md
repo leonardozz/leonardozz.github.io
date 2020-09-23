@@ -4,16 +4,7 @@ title: Contact
 share-title: M & L - Contact
 ---
 
-##For any A, B, C or D consulting inquiries, please email [contact+website@alsgs.com.ve](mailto:contact+website@alsgs.com.ve?subject=Website - consulting inquiry)
-
 Note that before any work can be performed, a (virtual) meeting is usually performed to gather requirements and discuss your needs.
-
-##<div style="text-align: center;">
-##<a href="https://calendly.com/TBC/meeting" class="schedule-btn actionbtn">
-##  <span class="far fa-calendar-check" aria-hidden="true"></span>
-##  SCHEDULE MEETING
-##</a>
-##</div>
 
 To get in contact, you can also send a message using the form below:
 
